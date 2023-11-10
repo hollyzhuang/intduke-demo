@@ -64,6 +64,6 @@ To add molecules:
 2. Calculate its persistent homology with `python src/python/ph.py public/pdb/your-molecule.pdb public/homologies/your-molecule.json`
 3. Add the name of your molecule to the `molecules` array in PHCanvas.js.
 
-### Todo (?? Discuss with Holly first)
+### Todo (??)
 
 Pairwise opposition homology
